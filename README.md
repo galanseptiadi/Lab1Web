@@ -32,6 +32,64 @@
 <!-- menambahkan gambar pada dokumen -->
 <img src="logo_upb.png" width="200" title="Logo Universitas Pelita Bangsa">
 
+**LAPORAN PRAKTIKUM**
+1. Membuat file baru dengan nama lab1_tag_dasar.html
+Programnya : 
+<img width="960" alt="tag2" src="https://user-images.githubusercontent.com/101730390/160832249-63acf280-9ed0-4c60-b62f-b5618b53c714.png">
+Hasil Programnya :
+<img width="779" alt="tag1" src="https://user-images.githubusercontent.com/101730390/160832424-71254cd2-7bf7-495c-bb20-cf36857b5ff7.png">
+
+2. Membuat Paragraf Sederhana
+Programnya :
+<img width="960" alt="tag4" src="https://user-images.githubusercontent.com/101730390/160832565-668a5256-b2f5-4550-b009-e93478adb642.png">
+Hasil Programnya :
+<img width="777" alt="tag3" src="https://user-images.githubusercontent.com/101730390/160832670-beb395d1-aaaa-433b-a68a-eb028974088c.png">
+
+3. Menambahkan judul
+Programnya :
+<img width="960" alt="tag6" src="https://user-images.githubusercontent.com/101730390/160836525-46b3e98c-4d52-44a1-97c8-58b826dc07f3.png">
+
+Hasil Programnya :
+<img width="777" alt="tag5" src="https://user-images.githubusercontent.com/101730390/160836649-da45acb3-4222-4888-ba39-7eed0730ddba.png">
+
+4. Memformat teks 
+Programnya :
+<img width="960" alt="tag8" src="https://user-images.githubusercontent.com/101730390/160836789-c95ebec1-b613-46ba-a0e1-da4c759e3fbb.png">
+
+Hasil Programnya :
+<img width="779" alt="tag7" src="https://user-images.githubusercontent.com/101730390/160836840-701ebca8-4996-4cb7-b0cb-b8b99b8e10ba.png">
+
+
+5. Menyisipkan Gambar
+> Programnya :
+<img width="960" alt="tag10" src="https://user-images.githubusercontent.com/101730390/160836893-356d9041-7d55-4f3a-b66b-c43f2109e9e2.png">
+
+> Hasil Programnya :
+<img width="954" alt="tag9" src="https://user-images.githubusercontent.com/101730390/160836956-9a907c3b-2450-48f1-b2d0-d8797d08dddc.png">
+
+
+> Programnya menggunakan atribut witdh dan height
+<img width="960" alt="tag12" src="https://user-images.githubusercontent.com/101730390/160837035-f1755ba3-825b-4042-9f96-f15bda22ea9f.png">
+
+Hasil Programnya :
+<img width="772" alt="tag11" src="https://user-images.githubusercontent.com/101730390/160837107-f0496ba0-9136-4094-be50-9b12f14ceebb.png">
+
+
+6. Menambahkan Hyperlink
+> Programnya :
+<img width="960" alt="tag14" src="https://user-images.githubusercontent.com/101730390/160837204-c59093e0-ab60-4d91-a491-489627ef3569.png">
+
+> Hasil Programnya :
+<img width="775" alt="tag13" src="https://user-images.githubusercontent.com/101730390/160837264-b6dec81c-ba6e-4998-9c64-869f620664ea.png">
+
+> Program menabhakan hyperlink dengan file baru lab1_halaman2 :
+<img width="960" alt="tag16" src="https://user-images.githubusercontent.com/101730390/160837352-7fed0583-d566-4d0b-a6b6-aeaa627edb54.png">
+
+Hasil Programnya :
+<img width="777" alt="tag15" src="https://user-images.githubusercontent.com/101730390/160837445-411e05c6-25da-42ef-9d26-2566e96a21d1.png">
+
+
+
 **Jawablah pertanyaan berikut :** 
   1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
   jawab : iya ada error.
